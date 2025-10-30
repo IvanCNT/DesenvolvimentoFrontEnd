@@ -2,7 +2,7 @@
 Matéria de Outubro/2025
 
 ```
-📁 Estrutura do Projeto — ONG Esperança
+📁 Estrutura do Projeto — ONG Amigos do Rivotril
 /ong-plataforma
 ├── index.html
 ├── sobre.html
