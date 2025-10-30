@@ -2,6 +2,7 @@
 Matéria de Outubro/2025
 
 Envio do Repositório referente à Atividade 2
+```
 ong-plataforma/
 ├── index.html
 ├── sobre.html
@@ -23,5 +24,6 @@ ong-plataforma/
     │   ├── projeto1.jpg
     │   └── ... (projeto2.jpg ... projeto20.jpg)
     │   └── relatorio.pdf
+```
     
 
