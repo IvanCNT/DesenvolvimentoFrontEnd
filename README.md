@@ -15,7 +15,7 @@ Matéria de Outubro/2025
 │
 ├── /assets
 │   ├── img/
-│   │   └── (20 imagens otimizadas)
+|       └── (20 imagens otimizadas)
 ```
 
 Objetivos
