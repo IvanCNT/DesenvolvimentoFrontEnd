@@ -4,7 +4,6 @@ Matéria de Outubro/2025
 
 📁 Estrutura do Projeto — ONG Esperança
 /ong-plataforma
-│
 ├── index.html
 ├── sobre.html
 ├── projetos.html
