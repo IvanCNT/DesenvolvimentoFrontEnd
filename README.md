@@ -1,8 +1,8 @@
 # DesenvolvimentoFrontEnd
 Matéria de Outubro/2025
 
-Tree
 
+📁 Estrutura do Projeto — ONG Esperança
 /ong-plataforma
 │
 ├── index.html
@@ -15,19 +15,9 @@ Tree
 ├── blog.html
 │
 ├── /assets
-│   ├── /css (Atividade 2)
-│   │   └── style.css
-│   ├── /js (Atividade 2)
-│   │   ├── main.js
-│   │   └── charts.js
-│   ├── /img
+│   ├── img/
 │   │   └── (20 imagens otimizadas)
-│   ├── /vídeos (Atividade 2)
-│   │   └── institucional.mp4
-│   ├── /áudios (Atividade 2)
-│   │   └── depoimento1.mp3
-│   └── /fonts (Atividade 2)
-│       └── (fontes web)
+
 
 Objetivos
 
