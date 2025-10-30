@@ -1,0 +1,113 @@
+/* Cartão padrão */
+.card {
+  background-color: white;
+  border: 1px solid var(--color-light);
+  border-radius: 8px;
+  padding: var(--space-3);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Botões */
+button {
+  padding: var(--space-2);
+  border: none;
+  border-radius: 4px;
+  background-color: var(--color-primary);
+  color: white;
+  font-size: var(--font-md);
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--color-secondary);
+}
+
+button:focus {
+  outline: 2px solid var(--color-accent);
+}
+
+button:disabled {
+  background-color: var(--color-light);
+  color: var(--color-dark);
+  cursor: not-allowed;
+}
+
+/* Formulários */
+form input,
+form select,
+form textarea {
+  padding: var(--space-2);
+  border: 1px solid var(--color-dark);
+  border-radius: 4px;
+  font-size: var(--font-sm);
+}
+
+form input:invalid {
+  border-color: var(--color-error);
+}
+
+/* Badge */
+.badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: var(--font-xs);
+  background-color: var(--color-accent);
+  color: white;
+}
+
+/* Modal */
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: var(--space-4);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  display: none;
+}
+
+.modal .close-modal {
+  background: var(--color-error);
+  color: white;
+  border: none;
+  padding: var(--space-1) var(--space-2);
+  cursor: pointer;
+  float: right;
+}
+
+/* Botão para abrir modal */
+.open-modal {
+  background: var(--color-accent);
+  color: white;
+  padding: var(--space-2) var(--space-3);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Toasts */
+.toast {
+  position: fixed;
+  bottom: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-success);
+  color: white;
+  padding: var(--space-2) var(--space-3);
+  border-radius: 4px;
+  opacity: 0;
+  transition: all 0.3s ease;
+  z-index: 2000;
+}
+
+.toast.error {
+  background: var(--color-error);
+}
+
+.toast.show {
+  bottom: 30px;
+  opacity: 1;
+}
