@@ -3,6 +3,7 @@ Matéria de Outubro/2025
 
 Envio do Repositório referente à Atividade 2
 ```
+📁 Estrutura do Projeto — ONG Amigos do Rivotril
 ong-plataforma/
 ├── index.html
 ├── sobre.html
