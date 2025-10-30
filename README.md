@@ -1,7 +1,7 @@
 # DesenvolvimentoFrontEnd
 Matéria de Outubro/2025
 
-
+```
 📁 Estrutura do Projeto — ONG Esperança
 /ong-plataforma
 ├── index.html
@@ -16,7 +16,7 @@ Matéria de Outubro/2025
 ├── /assets
 │   ├── img/
 │   │   └── (20 imagens otimizadas)
-
+```
 
 Objetivos
 
