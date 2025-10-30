@@ -87,8 +87,8 @@ ong-plataforma/
 - Navegação por teclado em todos os menus e formulários
 - Estrutura semântica com uso de `header`, `nav`, `main`, `section`, `footer`
 - Contraste mínimo de 4.5:1 para texto normal
-- Suporte a leitores de tela com aria-label, role, tabindex
-- Modo escuro e alto contraste via CSS (prefers-color-scheme)
+- Suporte a leitores de tela com `aria-label`, `role`, `tabindex`
+- Modo escuro e alto contraste via CSS `(prefers-color-scheme)`
 
 ---
 
@@ -103,10 +103,10 @@ ong-plataforma/
 ## Versionamento e GitFlow
 Branches:
 - main → produção
-- Branch ExperienciaPratica_1 → desenvolvimento Atividade 1
-- Branch ExperienciaPratica_2 → desenvolvimento Atividade 2
-- Branch ExperienciaPratica_3 → desenvolvimento Atividade 3
-- main → versões estáveis
+- Branch ExperienciaPratica_1 → desenvolvimento Atividade 1 → v1.0.0
+- Branch ExperienciaPratica_2 → desenvolvimento Atividade 2 → v1.1.0
+- Branch ExperienciaPratica_3 → desenvolvimento Atividade 3 → v1.2.0
+- main → versão estável → v2.0.0
 
 ---
 
@@ -114,7 +114,7 @@ Branches:
 - v1.0.0 — Estrutura inicial em HTML5 Semântica e Formulários Complexos e Interativos.
 - v1.1.0 — Acessibilidade e Sistema de Design aprimorados, Layout Responsivo com Flexbox e Grid inclusão CSS organizada.
 - v1.2.0 — Manipulação DOM, implementação de sistema de Single Page Application (SPA) básico e templates Javascript.
-- v2.0.0 — Acessibilidade (WCAG 2.1 Nível AA) e Versão final para produção
+- v2.0.0 — Acessibilidade (WCAG 2.1 Nível AA), Documentação e Versão final
 
 ---
 
