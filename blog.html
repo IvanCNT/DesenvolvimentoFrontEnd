@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ONG Amigos do Rivotril</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <script type="module" src="assets/js/main.js"></script>
+</head>
+<body class="page">
+  <header>
+    <div class="container header-inner">
+      <h1 class="brand">Blog</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Início</a></li>
+          <li><a href="sobre.html">Sobre</a></li>
+          <li><a href="projetos.html">Projetos</a></li>
+          <li><a href="voluntariado.html">Voluntariado</a></li>
+          <li><a href="doacoes.html">Doações</a></li>
+          <li><a href="transparencia.html">Transparência</a></li>
+          <li><a href="contato.html">Contato</a></li>
+          <li><a href="blog.html" class="active">Blog</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container main-grid">
+    <section class="card col-span-12">
+      <h2>Assine nossa Newsletter</h2>
+      <form action="#" method="post" novalidate>
+        <div>
+          <label for="email"><strong>E-mail</strong></label>
+          <input id="email" name="email" type="email" placeholder="xxxxx@com.br" required aria-required="true" />
+        </div>
+
+        <fieldset>
+          <legend><strong>Preferências</strong></legend>
+
+          <div>
+            <input id="projetos" name="conteudo[]" type="checkbox" value="projetos" />
+            <label for="projetos">Projetos</label>
+          </div>
+
+          <div>
+            <input id="eventos" name="conteudo[]" type="checkbox" value="eventos" />
+            <label for="eventos">Eventos</label>
+          </div>
+
+        </fieldset>
+
+        <button type="submit" class="btn-primary">Enviar</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 ONG Amigos do Rivotril</p>
+  </footer>
+</body>
+</html>
