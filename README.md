@@ -119,7 +119,7 @@ Branches:
 ---
 
 ## Créditos
-- Desenvolvido por Ivan Carlos N. T. — Projeto acadêmico para consolidação de práticas profissionais em desenvolvimento web.
+- Desenvolvido por Ivan Carlos N. T. — Projeto acadêmico para consolidação de boas práticas em desenvolvimento web.
 
 ---
 
