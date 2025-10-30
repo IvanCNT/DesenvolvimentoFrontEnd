@@ -114,7 +114,7 @@ Branches:
 - v1.0.0 — Estrutura inicial em HTML5 Semântica e Formulários Complexos e Interativos.
 - v1.1.0 — Acessibilidade e Sistema de Design aprimorados, Layout Responsivo com Flexbox e Grid inclusão CSS organizada.
 - v1.2.0 — Manipulação DOM, implementação de sistema de Single Page Application (SPA) básico e templates Javascript.
-- v2.0.0 — Versão final para produção
+- v2.0.0 — Acessibilidade (WCAG 2.1 Nível AA) e Versão final para produção
 
 ---
 
